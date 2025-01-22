@@ -3,5 +3,7 @@
 Внимание: ‼️ 
 <<используйте только для целей учить >>
 
+*** only for educational use to provide insights for students who will encounter this project**
+
 Аll rights reserved to: 
 © 2025 АНО ДПО «Образовательные технологии Яндекса», ООО «Яндекс», 119021, Москва, ул. Льва Толстого, 16
